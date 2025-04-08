@@ -7,7 +7,7 @@ We can't be fragmented - let's cooperate & show our potential!
 - [Event Calendar](#event-calendar)
 - [Organizations & Communities](#organizations--communities)
 - [Angel Investors & VC](#angel-investors--vc)
-- [🤲 Contribute](#-contribute)
+- [Contribute](#-contribute)
 
 ---
 
@@ -37,7 +37,7 @@ We can't be fragmented - let's cooperate & show our potential!
 
 ---
 
-## 🤑 Angel Investors & VC
+## 🤑 Angel Investors & VC (with AI track record)
 
 <details>
   <summary>Pucek Capital</summary>
@@ -50,7 +50,19 @@ We can't be fragmented - let's cooperate & show our potential!
 
 ---
 
+## 🙌 Successfull AI Startups (we're proud of you!) 
+
+<details>
+  <summary>ElevenLabs</summary>
+
+  - [ElevenLabs]([https://www.pucek.capital/](https://elevenlabs.io/))
+  - 
+  - 
+  - 
+</details>
+
 ## 🤲 Contribute
 
-Add to this list – make a PR to contribute. Or reach out to me: [LinkedIn](https://www.linkedin.com/in/artur-wala/)
+Add to this list – make a PR to contribute. 
+Or reach out to me: [LinkedIn](https://www.linkedin.com/in/artur-wala/)
 
