@@ -17,10 +17,17 @@ We can't be fragmented - let's cooperate & show our potential!
   <summary>OpenAI x AI Tinkerers Hackathon in Warsaw</summary>
 
   - [OpenAI x AI Tinkerers Hackathon in Warsaw](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw)
-  - 
-  - 
-  - 
+    
 </details>
+
+<details>
+  <summary>Olimpiada Sztucznej Inteligencjia</summary>
+
+  - [Olimpiada Sztucznej Inteligencji - 2 etap](https://oai.cs.uni.wroc.pl/)
+    
+</details>
+
+
 
 ---
 
@@ -55,7 +62,7 @@ We can't be fragmented - let's cooperate & show our potential!
 <details>
   <summary>ElevenLabs</summary>
 
-  - [ElevenLabs]([https://www.pucek.capital/](https://elevenlabs.io/))
+  - [ElevenLabs](https://elevenlabs.io/)
   - 
   - 
   - 
