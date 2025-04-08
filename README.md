@@ -21,12 +21,18 @@ We can't be fragmented - let's cooperate & show our potential!
 </details>
 
 <details>
-  <summary>Olimpiada Sztucznej Inteligencjia</summary>
+  <summary>Olimpiada Sztucznej Inteligencji</summary>
 
   - [Olimpiada Sztucznej Inteligencji - 2 etap](https://oai.cs.uni.wroc.pl/)
     
 </details>
 
+<details>
+  <summary>Hack the AI with mBank</summary>
+
+  - [Hack the AI](https://hackai.ii.pw.edu.pl/)
+    
+</details>
 
 
 ---
@@ -37,10 +43,21 @@ We can't be fragmented - let's cooperate & show our potential!
   <summary>AI Tinkerers Warsaw</summary>
 
   - [AI Tinkerers Warsaw](https://warsaw.aitinkerers.org/)
-  - 
-  - 
-  - 
+  - Every 2 months (albo jak nam się chce xd) in Warsaw.
+  - +1200 people already registered to our events - it's the most hands-on AI Engineeiring community
+  - RSVP selection applies - only for active builders.
+  - No sales pitches, just demo & messy WIP - show other what you're building and how you overcome your biggest problems.
+  - Contact person: [Artur Wala](https://www.linkedin.com/in/artur-wala/)
 </details>
+
+<details>
+  <summary>Artificial Intelligence Society Golem</summary>
+
+  - [Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/)
+    
+</details>
+
+
 
 ---
 
@@ -50,9 +67,26 @@ We can't be fragmented - let's cooperate & show our potential!
   <summary>Pucek Capital</summary>
 
   - [Pucek Capital](https://www.pucek.capital/)
-  - 
-  - 
-  - 
+  - Angel e.g. in ElevenLabs & Wordware
+    
+</details>
+
+<details>
+  <summary>Catch The Tornado</summary>
+
+  - [Catch The Tornado](https://www.pucek.capital/)
+  - Tom & Piotr Karwatka, angels e.g. in ElevenLabs & Wordware
+  - Recently also active builders: [Open Agent Builder](https://github.com/CatchTheTornado/open-agents-builder?tab=readme-ov-file)
+    
+</details>
+
+<details>
+  <summary>Grzegorz Kossakowski</summary>
+
+  - [GKK.dev](https://gkk.dev/investing)
+  - Previously AI @ Stripe
+  - Angel e.g. in Wordware
+    
 </details>
 
 ---
@@ -63,9 +97,21 @@ We can't be fragmented - let's cooperate & show our potential!
   <summary>ElevenLabs</summary>
 
   - [ElevenLabs](https://elevenlabs.io/)
-  - 
-  - 
-  - 
+    
+</details>
+
+<details>
+  <summary>Wordware</summary>
+
+  - [Wordware](https://www.wordware.ai/)
+    
+</details>
+
+<details>
+  <summary>Zeta Labs</summary>
+
+  - [Zeta Labs](https://www.zetalabs.ai/)
+    
 </details>
 
 ## 🤲 Contribute
