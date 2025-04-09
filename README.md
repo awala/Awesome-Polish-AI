@@ -51,11 +51,51 @@ We can't be fragmented - let's cooperate & show our potential!
 </details>
 
 <details>
+  <summary>SpeakLeash</summary>
+
+  - [SpeakLeash - the community behind Bielik](https://speakleash.org/)
+    
+</details>
+
+<details>
   <summary>Artificial Intelligence Society Golem</summary>
 
   - [Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/)
     
 </details>
+
+<details>
+  <summary>Machine Learning Society at MIM UW</summary>
+
+  - [Machine Learning Society at MIM UW](https://www.linkedin.com/company/knum-mimuw/)
+    
+</details>
+
+<details>
+  <summary>BIT Student Scientific Group at AGH University</summary>
+
+  - [BIT Student Scientific Group at AGH University](https://www.linkedin.com/company/bit-scientific-group-at-agh-university/)
+    
+</details>
+
+<details>
+  <summary>WUT Data Science Club</summary>
+
+  - [Koło Naukowe Data Science](https://www.linkedin.com/company/kolo-naukowe-data-science/)
+  - Contact [Igor Kołodziej](https://www.linkedin.com/in/igorkolodziej/)
+    
+</details>
+
+<details>
+  <summary>WUT Data Science Club</summary>
+
+  - [Koło Naukowe Data Science](https://www.linkedin.com/company/kolo-naukowe-data-science/)
+  - Contact [Igor Kołodziej](https://www.linkedin.com/in/igorkolodziej/)
+    
+</details>
+
+
+
 
 
 
@@ -91,12 +131,19 @@ We can't be fragmented - let's cooperate & show our potential!
 
 ---
 
-## 🙌 Successfull AI Startups (we're proud of you!) 
+## 🙌 Successfull AI Startups & Tech (we're proud of you!) 
 
 <details>
   <summary>ElevenLabs</summary>
 
   - [ElevenLabs](https://elevenlabs.io/)
+    
+</details>
+
+<details>
+  <summary>Bielik</summary>
+
+  - [Bielik - polish LLM](https://bielik.ai/)
     
 </details>
 
