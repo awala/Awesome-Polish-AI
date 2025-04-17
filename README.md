@@ -58,6 +58,15 @@ We can't be fragmented - let's cooperate & show our potential!
 </details>
 
 <details>
+  <summary>ML in PL</summary>
+
+  - [ML in PL](https://www.linkedin.com/company/mlinpl/posts/?feedView=all)
+    
+</details>
+
+
+
+<details>
   <summary>Artificial Intelligence Society Golem</summary>
 
   - [Golem](https://www.linkedin.com/company/artificial-intelligence-society-golem/)
