@@ -111,14 +111,6 @@ We can't be fragmented - let's cooperate & show our potential!
     
 </details>
 
-<details>
-  <summary>WUT Data Science Club</summary>
-
-  - [Koło Naukowe Data Science](https://www.linkedin.com/company/kolo-naukowe-data-science/)
-  - Contact [Igor Kołodziej](https://www.linkedin.com/in/igorkolodziej/)
-    
-</details>
-
 
 
 
