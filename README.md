@@ -14,28 +14,28 @@ We can't be fragmented - let's cooperate & show our potential!
 ## 🗓️ Event Calendar
 
 <details>
-  <summary> AI Tinkerers #5 in Warsaw</summary>
+  <summary> 18.09 AI Tinkerers #5 in Warsaw</summary>
 
   - [AI Tinkerers #5 in Warsaw](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw)
     
 </details>
 
 <details>
-  <summary>AI Meetup in Wroclaw with Callstack & Vercel</summary>
+  <summary> 02.09 AI Meetup in Wroclaw with Callstack & Vercel</summary>
 
   - [AI Meetup in Wroclaw with Callstack & Vercel](https://www.callstack.com/events/ai-meetup-in-wroclaw-first-edition?) 
     
 </details>
 
 <details>
-  <summary>ML in PL 2025</summary>
+  <summary> 15-17.10 ML in PL 2025</summary>
 
   - [ML in PL 2025](https://conference.mlinpl.org/about-ml-in-pl-conference) 
     
 </details>
 
 <details>
-  <summary>Claude Code /init @WAW</summary>
+  <summary> 27.08 Claude Code /init @WAW</summary>
 
   - [Claude Code /init @WAW](https://lu.ma/57bmvjid) 
     
