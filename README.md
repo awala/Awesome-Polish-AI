@@ -27,6 +27,16 @@ We can't be fragmented - let's cooperate & show our potential!
     
 </details>
 
+<details>
+  <summary>ML in PL 2025</summary>
+
+  - [ML in PL 2025](https://conference.mlinpl.org/about-ml-in-pl-conference) 
+    
+</details>
+
+
+
+
 ## 🗓️ Past Events
 
 <details>
