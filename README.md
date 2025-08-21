@@ -34,6 +34,13 @@ We can't be fragmented - let's cooperate & show our potential!
     
 </details>
 
+<details>
+  <summary>Claude Code /init @WAW</summary>
+
+  - [Claude Code /init @WAW](https://lu.ma/57bmvjid) 
+    
+</details>
+
 
 
 
