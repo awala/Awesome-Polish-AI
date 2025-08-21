@@ -14,6 +14,22 @@ We can't be fragmented - let's cooperate & show our potential!
 ## 🗓️ Event Calendar
 
 <details>
+  <summary> AI Tinkerers #5 in Warsaw</summary>
+
+  - [AI Tinkerers #5 in Warsaw](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw)
+    
+</details>
+
+<details>
+  <summary>AI Meetup in Wroclaw with Callstack & Vercel</summary>
+
+  - [AI Meetup in Wroclaw with Callstack & Vercel](https://www.callstack.com/events/ai-meetup-in-wroclaw-first-edition?) 
+    
+</details>
+
+## 🗓️ Past Events
+
+<details>
   <summary>OpenAI x AI Tinkerers Hackathon in Warsaw</summary>
 
   - [OpenAI x AI Tinkerers Hackathon in Warsaw](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw)
